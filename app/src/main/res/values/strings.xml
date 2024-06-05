@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Uang Ku</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_history">History</string>
+    <string name="menu_profile">Profile</string>
+    <string name="image_profile">ImageProfile</string>
+
+    <string name="email">Dios@gmail.com</string>
+    <string name="address">address</string>
+    <string name="phone">Phone</string>
+
+
+</resources>
